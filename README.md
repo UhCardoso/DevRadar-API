@@ -13,8 +13,11 @@ Neste projeto eu adicionei uma funcionalidade extra no qual o usuário poderá c
 No frontend utilizando a biblioteca *Axios* é feito uma requisição **POST**, enviando os seguintes campos:
 
 `"github_username": "username-github",`
+
 `"techs": "ReactJS, PHP",`
+
 `"latitude": posiçao-latitude-atual,`
+
 `"longitude": posicao-longitude-atual`
 
 - **Rota para buscar por devs:**
